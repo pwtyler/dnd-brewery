@@ -7,5 +7,5 @@ As an action, if your familiar is within 100', you can “enter” your familiar
 You can choose to roll initiative for your familiar, or place its turn immediately after your own in the turn order.
 
 ###### Notes
-[^ffdndb][D&D Beyond](https://www.dndbeyond.com/spells/find-familiar)
+[^ffdndb] [D&D Beyond](https://www.dndbeyond.com/spells/find-familiar)
 [^ff1] Ruling based on [Matt Mercer's](https://twitter.com/matthewmercer/) adapted rules for Frumpkin and Grand Duchess Anastasia.

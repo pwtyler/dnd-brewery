@@ -8,4 +8,4 @@ Classes
   * A conjured food or liquid can be consumed, but does not offer any nutritious (or intoxicating) effects. The food is particularly bland. Wine is a tinge sour.
 
 ###### Notes
-[^wizarddndb][D&D Beyond](https://www.dndbeyond.com/classes/wizard)
+[^wizarddndb] [D&D Beyond](https://www.dndbeyond.com/classes/wizard)
