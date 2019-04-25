@@ -1,4 +1,4 @@
-### House Rules And Adjustments to RAW
+### House Rules and Adjustments to RAW
 * [Classes](classes.md)
 * [Combat](combat.md)
 * [Feats](feats.md)
