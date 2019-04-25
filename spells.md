@@ -13,3 +13,5 @@ You can choose to roll initiative for your familiar, or place its turn immediate
 #### Notes
 1. [D&D Beyond](https://www.dndbeyond.com/spells/find-familiar)
 2. Ruling based on [Matt Mercer's](https://twitter.com/matthewmercer/) adapted familiar rules for Frumpkin and Grand Duchess Anastasia in Critical Role Season 2.
+
+[Home](index.md)

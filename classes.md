@@ -10,3 +10,5 @@ Classes
 
 ## Notes
  1. [D&D Beyond](https://www.dndbeyond.com/classes/wizard)
+
+[Home](index.md)
