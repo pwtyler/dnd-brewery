@@ -8,4 +8,4 @@ Homebrew and Houserules
 * [Spells](spells.md)
 
 
-Find me at [Twitter](https://twitter.com/pwtyler) or [pwtyler.com](https://pwtyler.com). I write about D&D with others at [DorkyDungeoneer](https://dorkydungeoneer.com).
+Find me at [Twitter](https://twitter.com/pwtyler) or [pwtyler.com](https://pwtyler.com). I write about D&D with others at [Dorky Dungeoneer](https://dorkydungeoneer.com).
