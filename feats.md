@@ -1,8 +1,8 @@
 Feats
 ======
 
-#### Healer<sup>1</sup>
-A creature must already be conscious in order to use a healer's kit to restore hit points to it.<sup>2</sup>
+#### Healer
+A creature must already be conscious in order to use a healer's kit to restore hit points to it.
 
 ###### Notes
 1. [D&D Beyond](https://www.dndbeyond.com/feats/healer) (Paywall)
