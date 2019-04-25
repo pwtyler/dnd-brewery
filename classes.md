@@ -1,7 +1,7 @@
 Classes
 ======
 
-## Wizard[^1]
+## Wizard<sup>1</sup>
 ### Conjuration Wizard
 #### Minor Conjuration
   * A conjured lantern, candle, or torch sheds light as if it were a real, illuminating object, but at half the distance of the "real" item.
@@ -9,4 +9,4 @@ Classes
   * A conjured item disappears if the caster casts a concentration spell. The conjured object, however, does not require concentration checks to maintain for its duration.
 
 ## Notes
-[^1]: [D&D Beyond](https://www.dndbeyond.com/classes/wizard)
+ 1. [D&D Beyond](https://www.dndbeyond.com/classes/wizard)
