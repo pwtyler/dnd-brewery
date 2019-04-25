@@ -1,11 +1,10 @@
-Homebrew and Houserules
-======
-
-### Pages
+### House Rules And Adjustments to RAW
 * [Classes](classes.md)
 * [Combat](combat.md)
 * [Feats](feats.md)
 * [Spells](spells.md)
 
+### Homebrew 
+DNE (yet)
 
-Find me at [Twitter](https://twitter.com/pwtyler) or [pwtyler.com](https://pwtyler.com). I write about D&D with others at [Dorky Dungeoneer](https://dorkydungeoneer.com).
+I write about D&D with others at [Dorky Dungeoneer](https://dorkydungeoneer.com). Find me on [Twitter](https://twitter.com/pwtyler) or [pwtyler.com](https://pwtyler.com).
